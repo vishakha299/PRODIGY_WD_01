@@ -11,4 +11,4 @@
 
 ## Live Demo
 
-Check out the live demo: [Stopwatch Web App](https://vishakha299.github.io/PRODIGY_WD_01/)
+Check out the live demo: [Responsive Clothing Landing Page](https://vishakha299.github.io/PRODIGY_WD_01/)
