@@ -8,3 +8,7 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 ![preview img](/preview.png)
+
+## Live Demo
+
+Check out the live demo: [Stopwatch Web App](https://vishakha299.github.io/PRODIGY_WD_01/)
